@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify that Users are able to accept requests from other Users for chat</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>4c6f2470-f958-408d-9a5b-5ffc6dc9c6f5</testCaseGuid>
-</TestCaseEntity>
