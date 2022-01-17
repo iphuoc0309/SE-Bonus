@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>With special characters</description>
+   <name>createAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a691c412-8616-4ae2-832d-2666537945d3</testCaseGuid>
+</TestCaseEntity>

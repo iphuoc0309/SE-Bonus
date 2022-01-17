@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Users are able to Chat with their group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2bd2339-4cc3-4df8-a749-8f753d92f404</testCaseGuid>
+</TestCaseEntity>

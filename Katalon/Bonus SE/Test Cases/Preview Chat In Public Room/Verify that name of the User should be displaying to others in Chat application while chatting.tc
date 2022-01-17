@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that name of the User should be displaying to others in Chat application while chatting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a19f9a60-dee7-4aae-9bbf-63e2ae59b8db</testCaseGuid>
+</TestCaseEntity>

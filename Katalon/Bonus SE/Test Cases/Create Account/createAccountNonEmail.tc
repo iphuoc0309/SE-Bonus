@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>createAccountNonEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bafe68a5-71b2-4a4f-80e3-b8ce4e955c94</testCaseGuid>
+</TestCaseEntity>

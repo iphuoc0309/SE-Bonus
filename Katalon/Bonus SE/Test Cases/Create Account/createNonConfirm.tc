@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No confirm password</description>
+   <name>createNonConfirm</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cd5fe617-0f4a-4664-86b9-0e1e38bf4718</testCaseGuid>
+</TestCaseEntity>

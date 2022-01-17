@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that User is able to edit or delete its Chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf06f6f9-055b-4b34-baf6-88ca52aee503</testCaseGuid>
+</TestCaseEntity>

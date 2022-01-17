@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Users are able to create a Chat group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1c6eae4-4e72-4038-b50a-7d58c1ee4c58</testCaseGuid>
+</TestCaseEntity>

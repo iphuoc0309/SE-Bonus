@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify If There Are Words That Cannot Be Found In The Public Room</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f31712e5-0162-4d0e-a645-0afc4b791ea5</testCaseGuid>
+</TestCaseEntity>

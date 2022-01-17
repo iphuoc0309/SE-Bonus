@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Already Email</description>
+   <name>createWithAlreadyE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac21e861-c06c-4db6-a51e-5471c389f130</testCaseGuid>
+</TestCaseEntity>

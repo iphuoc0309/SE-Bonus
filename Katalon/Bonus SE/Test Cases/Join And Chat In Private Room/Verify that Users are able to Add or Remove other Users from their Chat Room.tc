@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Users are able to Add or Remove other Users from their Chat Room</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abe2ffee-bf38-4777-b495-422b6a2a6916</testCaseGuid>
+</TestCaseEntity>

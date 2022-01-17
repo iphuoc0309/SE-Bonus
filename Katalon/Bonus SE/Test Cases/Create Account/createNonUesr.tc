@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Non-Username</description>
+   <name>createNonUesr</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f693ccfb-6915-4e1e-967d-2946d86f8c58</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify that Users are able join current Chat in their group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb30cace-7d5d-4670-96ea-c4c2189513c6</testCaseGuid>
+</TestCaseEntity>

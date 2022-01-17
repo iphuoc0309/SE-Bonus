@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Already Username</description>
+   <name>createWithAlreadyU</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed1a1287-7929-4333-8b9e-98a946ab71ab</testCaseGuid>
+</TestCaseEntity>

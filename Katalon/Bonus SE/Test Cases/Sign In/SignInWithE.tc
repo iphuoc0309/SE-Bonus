@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>By invalid Email</description>
+   <name>SignInWithE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4773e784-1503-4826-88ae-76d2d22488af</testCaseGuid>
+</TestCaseEntity>
